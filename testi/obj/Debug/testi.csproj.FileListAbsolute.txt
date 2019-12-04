@@ -1,0 +1,11 @@
+C:\Users\zakar\source\repos\testi\testi\bin\Debug\testi.exe.config
+C:\Users\zakar\source\repos\testi\testi\bin\Debug\testi.exe
+C:\Users\zakar\source\repos\testi\testi\bin\Debug\testi.pdb
+C:\Users\zakar\source\repos\testi\testi\bin\Debug\HaxonAPI.dll
+C:\Users\zakar\source\repos\testi\testi\bin\Debug\HaxonAPI.pdb
+C:\Users\zakar\source\repos\testi\testi\bin\Debug\HaxonAPI.dll.config
+C:\Users\zakar\source\repos\testi\testi\obj\Debug\testi.csprojAssemblyReference.cache
+C:\Users\zakar\source\repos\testi\testi\obj\Debug\testi.csproj.CoreCompileInputs.cache
+C:\Users\zakar\source\repos\testi\testi\obj\Debug\testi.csproj.CopyComplete
+C:\Users\zakar\source\repos\testi\testi\obj\Debug\testi.exe
+C:\Users\zakar\source\repos\testi\testi\obj\Debug\testi.pdb
