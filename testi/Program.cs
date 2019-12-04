@@ -12,16 +12,16 @@ namespace testi
 {
     class Program
     {
-        //HaxonAPI.HaxonAPI API = new HaxonAPI.HaxonAPI();
+        
         static void Main(string[] args)
         {
+            HaxonAPI.HaxonAPI API = new HaxonAPI.HaxonAPI();
             Console.Title = "ElKoax Magic";
 
 
 
-            HaxonAPI.HaxonAPI API = new HaxonAPI.HaxonAPI();
+            
 
-           // API.InjectDLL();
             Console.WriteLine(API.IsInjected());
 
             while (true)
